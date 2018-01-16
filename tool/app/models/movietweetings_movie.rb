@@ -1,0 +1,2 @@
+class MovietweetingsMovie < ApplicationRecord
+end

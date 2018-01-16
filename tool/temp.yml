@@ -1,0 +1,438 @@
+--- !ruby/object:Twitter::Tweet
+attrs:
+  :created_at: Mon Jan 08 13:20:53 +0000 2018
+  :id: 950356634110517249
+  :id_str: '950356634110517249'
+  :text: 'I rated Prison Break: The Sunshine State (S4.E16) 9/10  #IMDb احا نييك https://t.co/3EuIAAAJ94'
+  :source: <a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter for
+    iPad</a>
+  :truncated: false
+  :in_reply_to_status_id:
+  :in_reply_to_status_id_str:
+  :in_reply_to_user_id:
+  :in_reply_to_user_id_str:
+  :in_reply_to_screen_name:
+  :user:
+    :id: 4656727935
+    :id_str: '4656727935'
+    :name: pompo
+    :screen_name: Homeraltay
+    :location: الحمّام
+    :url:
+    :description: I got sarcasm in my DNA | creativity is everything in human life
+    :translator_type: none
+    :protected: false
+    :verified: false
+    :followers_count: 141
+    :friends_count: 96
+    :listed_count: 3
+    :favourites_count: 1765
+    :statuses_count: 6764
+    :created_at: Wed Dec 30 19:14:47 +0000 2015
+    :utc_offset:
+    :time_zone:
+    :geo_enabled: true
+    :lang: en
+    :contributors_enabled: false
+    :is_translator: false
+    :profile_background_color: '000000'
+    :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+    :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+    :profile_background_tile: false
+    :profile_link_color: 981CEB
+    :profile_sidebar_border_color: '000000'
+    :profile_sidebar_fill_color: '000000'
+    :profile_text_color: '000000'
+    :profile_use_background_image: false
+    :profile_image_url: http://pbs.twimg.com/profile_images/950015747044069376/HTZ60tmH_normal.jpg
+    :profile_image_url_https: https://pbs.twimg.com/profile_images/950015747044069376/HTZ60tmH_normal.jpg
+    :profile_banner_url: https://pbs.twimg.com/profile_banners/4656727935/1515336386
+    :default_profile: false
+    :default_profile_image: false
+    :following:
+    :follow_request_sent:
+    :notifications:
+  :geo:
+  :coordinates:
+  :place:
+  :contributors:
+  :is_quote_status: false
+  :quote_count: 0
+  :reply_count: 0
+  :retweet_count: 0
+  :favorite_count: 0
+  :entities: &1
+    :hashtags:
+    - &3
+      :text: IMDb
+      :indices:
+      - 56
+      - 61
+    :urls:
+    - &2
+      :url: https://t.co/3EuIAAAJ94
+      :expanded_url: http://www.imdb.com/title/tt1224480
+      :display_url: imdb.com/title/tt1224480
+      :indices:
+      - 71
+      - 94
+    :user_mentions: []
+    :symbols: []
+  :favorited: false
+  :retweeted: false
+  :possibly_sensitive: false
+  :filter_level: low
+  :lang: und
+  :timestamp_ms: '1515417653001'
+_memoized_method_cache: !ruby/object:Memoizable::Memory
+  memory: !ruby/object:ThreadSafe::Cache
+    backend:
+      :text: 'I rated Prison Break: The Sunshine State (S4.E16) 9/10  #IMDb احا نييك
+        https://t.co/3EuIAAAJ94'
+      :id: 950356634110517249
+      :user?: true
+      :user: !ruby/object:Twitter::User
+        attrs:
+          :id: 4656727935
+          :id_str: '4656727935'
+          :name: pompo
+          :screen_name: Homeraltay
+          :location: الحمّام
+          :url:
+          :description: I got sarcasm in my DNA | creativity is everything in human
+            life
+          :translator_type: none
+          :protected: false
+          :verified: false
+          :followers_count: 141
+          :friends_count: 96
+          :listed_count: 3
+          :favourites_count: 1765
+          :statuses_count: 6764
+          :created_at: Wed Dec 30 19:14:47 +0000 2015
+          :utc_offset:
+          :time_zone:
+          :geo_enabled: true
+          :lang: en
+          :contributors_enabled: false
+          :is_translator: false
+          :profile_background_color: '000000'
+          :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+          :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+          :profile_background_tile: false
+          :profile_link_color: 981CEB
+          :profile_sidebar_border_color: '000000'
+          :profile_sidebar_fill_color: '000000'
+          :profile_text_color: '000000'
+          :profile_use_background_image: false
+          :profile_image_url: http://pbs.twimg.com/profile_images/950015747044069376/HTZ60tmH_normal.jpg
+          :profile_image_url_https: https://pbs.twimg.com/profile_images/950015747044069376/HTZ60tmH_normal.jpg
+          :profile_banner_url: https://pbs.twimg.com/profile_banners/4656727935/1515336386
+          :default_profile: false
+          :default_profile_image: false
+          :following:
+          :follow_request_sent:
+          :notifications:
+          :status:
+            :created_at: Mon Jan 08 13:20:53 +0000 2018
+            :id: 950356634110517249
+            :id_str: '950356634110517249'
+            :text: 'I rated Prison Break: The Sunshine State (S4.E16) 9/10  #IMDb
+              احا نييك https://t.co/3EuIAAAJ94'
+            :source: <a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter
+              for iPad</a>
+            :truncated: false
+            :in_reply_to_status_id:
+            :in_reply_to_status_id_str:
+            :in_reply_to_user_id:
+            :in_reply_to_user_id_str:
+            :in_reply_to_screen_name:
+            :geo:
+            :coordinates:
+            :place:
+            :contributors:
+            :is_quote_status: false
+            :quote_count: 0
+            :reply_count: 0
+            :retweet_count: 0
+            :favorite_count: 0
+            :entities: *1
+            :favorited: false
+            :retweeted: false
+            :possibly_sensitive: false
+            :filter_level: low
+            :lang: und
+            :timestamp_ms: '1515417653001'
+        _memoized_method_cache: !ruby/object:Memoizable::Memory
+          memory: !ruby/object:ThreadSafe::Cache
+            backend:
+              :screen_name: Homeraltay
+              :id: 4656727935
+              :followers_count: 141
+              :entities?: false
+              :connections?: false
+              :favourites_count?: true
+              :followers_count?: true
+              :friends_count?: true
+              :location: الحمّام
+              :listed_count?: true
+              :utc_offset?: false
+              :name: pompo
+              :email?: false
+              :location?: true
+              :profile_background_color?: true
+              :statuses_count?: true
+              :profile_link_color?: true
+              :profile_sidebar_fill_color?: true
+              :lang?: true
+              :profile_sidebar_border_color?: true
+              :time_zone?: false
+              :name?: true
+              :default_profile?: false
+              :contributors_enabled?: false
+              :profile_text_color?: true
+              :default_profile_image?: false
+              :lang: en
+              :geo_enabled?: true
+              :muting?: false
+              :follow_request_sent?: false
+              :notifications?: false
+              :protected?: false
+              :needs_phone_verification?: false
+              :profile_use_background_image?: false
+              :suspended?: false
+              :profile_background_tile?: false
+              :translator?: false
+              :translation_enabled?: false
+              :verified?: false
+              :profile_background_image_uri?: true
+              :profile_background_image_uri: !ruby/object:Addressable::URI
+                validation_deferred: false
+                scheme: http
+                host: abs.twimg.com
+                path: "/images/themes/theme1/bg.png"
+                authority: abs.twimg.com
+                uri_string: http://abs.twimg.com/images/themes/theme1/bg.png
+                normalized_scheme: http
+                normalized_host: abs.twimg.com
+                normalized_authority: abs.twimg.com
+                normalized_path: "/images/themes/theme1/bg.png"
+                site: http://abs.twimg.com
+                normalized_site: http://abs.twimg.com
+                hash: -3264603839900573120
+              :profile_background_image_uri_https?: true
+              :description: I got sarcasm in my DNA | creativity is everything in
+                human life
+              :email: !ruby/object:Twitter::NullObject {}
+              :description_uris: []
+              :description_uris?: false
+              :time_zone: !ruby/object:Twitter::NullObject {}
+              :profile_background_image_uri_https: !ruby/object:Addressable::URI
+                validation_deferred: false
+                scheme: https
+                host: abs.twimg.com
+                path: "/images/themes/theme1/bg.png"
+                authority: abs.twimg.com
+                uri_string: https://abs.twimg.com/images/themes/theme1/bg.png
+                normalized_scheme: https
+                normalized_host: abs.twimg.com
+                normalized_authority: abs.twimg.com
+                normalized_path: "/images/themes/theme1/bg.png"
+                site: https://abs.twimg.com
+                normalized_site: https://abs.twimg.com
+                hash: -2456722733860733786
+              :website_uris: []
+              :website_uris?: false
+              :utc_offset: !ruby/object:Twitter::NullObject {}
+              :screen_name?: true
+              :uri: !ruby/object:Addressable::URI
+                validation_deferred: false
+                scheme: https
+                host: twitter.com
+                path: "/Homeraltay"
+                authority: twitter.com
+                uri_string: https://twitter.com/Homeraltay
+                normalized_scheme: https
+                normalized_host: twitter.com
+                normalized_authority: twitter.com
+                normalized_path: "/Homeraltay"
+                site: https://twitter.com
+                normalized_site: https://twitter.com
+                hash: 1251602709308023029
+              :connections: !ruby/object:Twitter::NullObject {}
+              :favourites_count: 1765
+              :friends_count: 96
+              :listed_count: 3
+              :statuses_count: 6764
+              :profile_background_color: '000000'
+              :profile_link_color: 981CEB
+              :profile_sidebar_border_color: '000000'
+              :description?: true
+              :profile_sidebar_fill_color: '000000'
+              :profile_text_color: '000000'
+              :status: !ruby/object:Twitter::Tweet
+                attrs:
+                  :created_at: Mon Jan 08 13:20:53 +0000 2018
+                  :id: 950356634110517249
+                  :id_str: '950356634110517249'
+                  :text: 'I rated Prison Break: The Sunshine State (S4.E16) 9/10  #IMDb
+                    احا نييك https://t.co/3EuIAAAJ94'
+                  :source: <a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter
+                    for iPad</a>
+                  :truncated: false
+                  :in_reply_to_status_id:
+                  :in_reply_to_status_id_str:
+                  :in_reply_to_user_id:
+                  :in_reply_to_user_id_str:
+                  :in_reply_to_screen_name:
+                  :geo:
+                  :coordinates:
+                  :place:
+                  :contributors:
+                  :is_quote_status: false
+                  :quote_count: 0
+                  :reply_count: 0
+                  :retweet_count: 0
+                  :favorite_count: 0
+                  :entities: *1
+                  :favorited: false
+                  :retweeted: false
+                  :possibly_sensitive: false
+                  :filter_level: low
+                  :lang: und
+                  :timestamp_ms: '1515417653001'
+                  :user:
+                    :id: 4656727935
+                    :id_str: '4656727935'
+                    :name: pompo
+                    :screen_name: Homeraltay
+                    :location: الحمّام
+                    :url:
+                    :description: I got sarcasm in my DNA | creativity is everything
+                      in human life
+                    :translator_type: none
+                    :protected: false
+                    :verified: false
+                    :followers_count: 141
+                    :friends_count: 96
+                    :listed_count: 3
+                    :favourites_count: 1765
+                    :statuses_count: 6764
+                    :created_at: Wed Dec 30 19:14:47 +0000 2015
+                    :utc_offset:
+                    :time_zone:
+                    :geo_enabled: true
+                    :lang: en
+                    :contributors_enabled: false
+                    :is_translator: false
+                    :profile_background_color: '000000'
+                    :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+                    :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+                    :profile_background_tile: false
+                    :profile_link_color: 981CEB
+                    :profile_sidebar_border_color: '000000'
+                    :profile_sidebar_fill_color: '000000'
+                    :profile_text_color: '000000'
+                    :profile_use_background_image: false
+                    :profile_image_url: http://pbs.twimg.com/profile_images/950015747044069376/HTZ60tmH_normal.jpg
+                    :profile_image_url_https: https://pbs.twimg.com/profile_images/950015747044069376/HTZ60tmH_normal.jpg
+                    :profile_banner_url: https://pbs.twimg.com/profile_banners/4656727935/1515336386
+                    :default_profile: false
+                    :default_profile_image: false
+                    :following:
+                    :follow_request_sent:
+                    :notifications:
+                _memoized_method_cache: !ruby/object:Memoizable::Memory
+                  memory: !ruby/object:ThreadSafe::Cache
+                    backend: {}
+                    default_proc:
+                  monitor: !ruby/object:Monitor
+                    mon_owner:
+                    mon_count: 0
+                    mon_mutex: !ruby/object:Thread::Mutex {}
+              :status?: true
+              :website:
+              :website?: false
+              :profile_banner_uri?: true
+              :profile_image_uri?: true
+              :created_at: 2015-12-30 19:14:47.000000000 Z
+              :created?: true
+              :following?: false
+              :id?: true
+            default_proc:
+          monitor: !ruby/object:Monitor
+            mon_owner:
+            mon_count: 0
+            mon_mutex: !ruby/object:Thread::Mutex {}
+      :uri: !ruby/object:Addressable::URI
+        validation_deferred: false
+        scheme: https
+        host: twitter.com
+        path: "/Homeraltay/status/950356634110517249"
+        authority: twitter.com
+        uri_string: https://twitter.com/Homeraltay/status/950356634110517249
+        normalized_scheme: https
+        normalized_host: twitter.com
+        normalized_authority: twitter.com
+        normalized_path: "/Homeraltay/status/950356634110517249"
+        site: https://twitter.com
+        normalized_site: https://twitter.com
+        hash: -303455422316255442
+      :source: <a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter
+        for iPad</a>
+      :metadata: !ruby/object:Twitter::NullObject {}
+      :source?: true
+      :lang: und
+      :place: !ruby/object:Twitter::NullObject {}
+      :text?: true
+      :retweeted_status?: false
+      :full_text: 'I rated Prison Break: The Sunshine State (S4.E16) 9/10  #IMDb احا
+        نييك https://t.co/3EuIAAAJ94'
+      :lang?: true
+      :filter_level: low
+      :in_reply_to_screen_name: !ruby/object:Twitter::NullObject {}
+      :favorite_count: 0
+      :in_reply_to_status_id: !ruby/object:Twitter::NullObject {}
+      :in_reply_to_user_id: !ruby/object:Twitter::NullObject {}
+      :retweet_count: 0
+      :in_reply_to_user_id?: false
+      :geo: !ruby/object:Twitter::NullObject {}
+      :retweeted_status: !ruby/object:Twitter::NullObject {}
+      :quoted_status: !ruby/object:Twitter::NullObject {}
+      :current_user_retweet: !ruby/object:Twitter::NullObject {}
+      :quoted_status?: false
+      :filter_level?: true
+      :in_reply_to_screen_name?: false
+      :favorite_count?: true
+      :in_reply_to_status_id?: false
+      :retweet_count?: true
+      :geo?: false
+      :metadata?: false
+      :place?: false
+      :current_user_retweet?: false
+      :favorited?: false
+      :possibly_sensitive?: false
+      :retweeted?: false
+      :truncated?: false
+      :uris:
+      - !ruby/object:Twitter::Entity::URI
+        attrs: *2
+      :symbols: []
+      :media: []
+      :entities?: true
+      :hashtags:
+      - !ruby/object:Twitter::Entity::Hashtag
+        attrs: *3
+      :hashtags?: true
+      :media?: false
+      :symbols?: false
+      :user_mentions: []
+      :user_mentions?: false
+      :created_at: 2018-01-08 13:20:53.000000000 Z
+      :created?: true
+      :id?: true
+    default_proc:
+  monitor: !ruby/object:Monitor
+    mon_owner:
+    mon_count: 0
+    mon_mutex: !ruby/object:Thread::Mutex {}

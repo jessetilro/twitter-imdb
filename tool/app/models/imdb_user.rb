@@ -1,0 +1,2 @@
+class ImdbUser < ApplicationRecord
+end

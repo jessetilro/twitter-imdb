@@ -1,0 +1,2 @@
+class MovietweetingsRating < ApplicationRecord
+end
